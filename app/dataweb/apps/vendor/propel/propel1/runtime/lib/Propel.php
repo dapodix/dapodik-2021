@@ -1,313 +1,945 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-3He9AMUbfvuRbG==
+<?php
+
+/**
+ * This file is part of the Propel package.
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ * @license    MIT License
+ */
+
+/**
+ * Propel's main resource pool and initialization & configuration class.
+ *
+ * This static class is used to handle Propel initialization and to maintain all of the
+ * open database connections and instantiated database maps.
+ *
+ * @author     Hans Lellelid <hans@xmpl.rg> (Propel)
+ * @author     Daniel Rall <dlr@finemaltcoding.com> (Torque)
+ * @author     Magnús Þór Torfason <magnus@handtolvur.is> (Torque)
+ * @author     Jason van Zyl <jvanzyl@apache.org> (Torque)
+ * @author     Rafal Krzewski <Rafal.Krzewski@e-point.pl> (Torque)
+ * @author     Martin Poeschl <mpoeschl@marmot.at> (Torque)
+ * @author     Henning P. Schmiedehausen <hps@intermeta.de> (Torque)
+ * @author     Kurt Schrader <kschrader@karmalab.org> (Torque)
+ * @version    $Revision$
+ * @package    propel.runtime
+ */
+class Propel
+{
+    /**
+     * The Propel version.
+     */
+    const VERSION = '1.6.7';
+
+    /**
+     * A constant for <code>default</code>.
+     */
+    const DEFAULT_NAME = "default";
+
+    /**
+     * A constant defining 'System is unusuable' logging level
+     */
+    const LOG_EMERG = 0;
+
+    /**
+     * A constant defining 'Immediate action required' logging level
+     */
+    const LOG_ALERT = 1;
+
+    /**
+     * A constant defining 'Critical conditions' logging level
+     */
+    const LOG_CRIT = 2;
+
+    /**
+     * A constant defining 'Error conditions' logging level
+     */
+    const LOG_ERR = 3;
+
+    /**
+     * A constant defining 'Warning conditions' logging level
+     */
+    const LOG_WARNING = 4;
+
+    /**
+     * A constant defining 'Normal but significant' logging level
+     */
+    const LOG_NOTICE = 5;
+
+    /**
+     * A constant defining 'Informational' logging level
+     */
+    const LOG_INFO = 6;
+
+    /**
+     * A constant defining 'Debug-level messages' logging level
+     */
+    const LOG_DEBUG = 7;
+
+    /**
+     * The class name for a PDO object.
+     */
+    const CLASS_PDO = 'PDO';
+
+    /**
+     * The class name for a PropelPDO object.
+     */
+    const CLASS_PROPEL_PDO = 'PropelPDO';
+
+    /**
+     * The class name for a DebugPDO object.
+     */
+    const CLASS_DEBUG_PDO = 'DebugPDO';
+
+    /**
+     * Constant used to request a READ connection (applies to replication).
+     */
+    const CONNECTION_READ = 'read';
+
+    /**
+     * Constant used to request a WRITE connection (applies to replication).
+     */
+    const CONNECTION_WRITE = 'write';
+
+    /**
+     * @var        string The db name that is specified as the default in the property file
+     */
+    private static $defaultDBName;
+
+    /**
+     * @var        array The global cache of database maps
+     */
+    private static $dbMaps = array();
+
+    /**
+     * @var        array The cache of DB adapter keys
+     */
+    private static $adapterMap = array();
+
+    /**
+     * @var        array Cache of established connections (to eliminate overhead).
+     */
+    private static $connectionMap = array();
+
+    /**
+     * @var        PropelConfiguration Propel-specific configuration.
+     */
+    private static $configuration;
+
+    /**
+     * @var        bool flag to set to true once this class has been initialized
+     */
+    private static $isInit = false;
+
+    /**
+     * @var        Log optional logger
+     */
+    private static $logger = null;
+
+    /**
+     * @var        string The name of the database mapper class
+     */
+    private static $databaseMapClass = 'DatabaseMap';
+
+    /**
+     * @var        bool Whether the object instance pooling is enabled
+     */
+    private static $instancePoolingEnabled = true;
+
+    /**
+     * @var        bool For replication, whether to force the use of master connection.
+     */
+    private static $forceMasterConnection = false;
+
+    /**
+     * @var        string Base directory to use for autoloading. Initialized in self::initBaseDir()
+     */
+    protected static $baseDir;
+
+    /**
+     * @var        array A map of class names and their file paths for autoloading
+     */
+    protected static $autoloadMap = array(
+
+        'DBAdapter'           => 'adapter/DBAdapter.php',
+        'DBMSSQL'             => 'adapter/DBMSSQL.php',
+        'MssqlPropelPDO'      => 'adapter/MSSQL/MssqlPropelPDO.php',
+        'MssqlDebugPDO'       => 'adapter/MSSQL/MssqlDebugPDO.php',
+        'MssqlDateTime'       => 'adapter/MSSQL/MssqlDateTime.class.php',
+        'DBMySQL'             => 'adapter/DBMySQL.php',
+        'DBMySQLi'            => 'adapter/DBMySQLi.php',
+        'DBNone'              => 'adapter/DBNone.php',
+        'DBOracle'            => 'adapter/DBOracle.php',
+        'DBPostgres'          => 'adapter/DBPostgres.php',
+        'DBSQLite'            => 'adapter/DBSQLite.php',
+        'DBSybase'            => 'adapter/DBSybase.php',
+        'DBSQLSRV'            => 'adapter/DBSQLSRV.php',
+
+        'PropelArrayCollection' => 'collection/PropelArrayCollection.php',
+        'PropelCollection'    => 'collection/PropelCollection.php',
+        'PropelObjectCollection' => 'collection/PropelObjectCollection.php',
+        'PropelOnDemandCollection' => 'collection/PropelOnDemandCollection.php',
+        'PropelOnDemandIterator' => 'collection/PropelOnDemandIterator.php',
+
+        'PropelConfiguration' => 'config/PropelConfiguration.php',
+        'PropelConfigurationIterator' => 'config/PropelConfigurationIterator.php',
+
+        'PropelPDO'           => 'connection/PropelPDO.php',
+        'DebugPDO'            => 'connection/DebugPDO.php',
+        'DebugPDOStatement'   => 'connection/DebugPDOStatement.php',
+
+        'PropelException'     => 'exception/PropelException.php',
+
+        'ModelWith'           => 'formatter/ModelWith.php',
+        'PropelArrayFormatter' => 'formatter/PropelArrayFormatter.php',
+        'PropelFormatter'     => 'formatter/PropelFormatter.php',
+        'PropelObjectFormatter' => 'formatter/PropelObjectFormatter.php',
+        'PropelOnDemandFormatter' => 'formatter/PropelOnDemandFormatter.php',
+        'PropelStatementFormatter' => 'formatter/PropelStatementFormatter.php',
+        'PropelSimpleArrayFormatter' => 'formatter/PropelSimpleArrayFormatter.php',
+
+        'BasicLogger'         => 'logger/BasicLogger.php',
+        'MojaviLogAdapter'    => 'logger/MojaviLogAdapter.php',
+
+        'ColumnMap'           => 'map/ColumnMap.php',
+        'DatabaseMap'         => 'map/DatabaseMap.php',
+        'TableMap'            => 'map/TableMap.php',
+        'RelationMap'         => 'map/RelationMap.php',
+        'ValidatorMap'        => 'map/ValidatorMap.php',
+
+        'BaseObject'          => 'om/BaseObject.php',
+        'NodeObject'          => 'om/NodeObject.php',
+        'Persistent'          => 'om/Persistent.php',
+        'PreOrderNodeIterator' => 'om/PreOrderNodeIterator.php',
+        'NestedSetPreOrderNodeIterator' => 'om/NestedSetPreOrderNodeIterator.php',
+        'NestedSetRecursiveIterator' => 'om/NestedSetRecursiveIterator.php',
+
+        'PropelCSVParser'     => 'parser/PropelCSVParser.php',
+        'PropelJSONParser'    => 'parser/PropelJSONParser.php',
+        'PropelParser'        => 'parser/PropelParser.php',
+        'PropelXMLParser'     => 'parser/PropelXMLParser.php',
+        'PropelYAMLParser'    => 'parser/PropelYAMLParser.php',
+
+        'Criteria'            => 'query/Criteria.php',
+        'Criterion'           => 'query/Criterion.php',
+        'CriterionIterator'   => 'query/CriterionIterator.php',
+        'Join'                => 'query/Join.php',
+        'ModelCriteria'       => 'query/ModelCriteria.php',
+        'ModelCriterion'      => 'query/ModelCriterion.php',
+        'ModelJoin'           => 'query/ModelJoin.php',
+        'PropelQuery'         => 'query/PropelQuery.php',
+
+        'BasePeer'            => 'util/BasePeer.php',
+        'NodePeer'            => 'util/NodePeer.php',
+        'PeerInfo'            => 'util/PeerInfo.php',
+        'PropelAutoloader'    => 'util/PropelAutoloader.php',
+        'PropelColumnTypes'   => 'util/PropelColumnTypes.php',
+        'PropelConditionalProxy' => 'util/PropelConditionalProxy.php',
+        'PropelModelPager'    => 'util/PropelModelPager.php',
+        'PropelPager'         => 'util/PropelPager.php',
+        'PropelDateTime'      => 'util/PropelDateTime.php',
+
+        'BasicValidator'      => 'validator/BasicValidator.php',
+        'MatchValidator'      => 'validator/MatchValidator.php',
+        'MaxLengthValidator'  => 'validator/MaxLengthValidator.php',
+        'MaxValueValidator'   => 'validator/MaxValueValidator.php',
+        'MinLengthValidator'  => 'validator/MinLengthValidator.php',
+        'MinValueValidator'   => 'validator/MinValueValidator.php',
+        'NotMatchValidator'   => 'validator/NotMatchValidator.php',
+        'RequiredValidator'   => 'validator/RequiredValidator.php',
+        'TypeValidator'       => 'validator/TypeValidator.php',
+        'UniqueValidator'     => 'validator/UniqueValidator.php',
+        'ValidValuesValidator' => 'validator/ValidValuesValidator.php',
+        'ValidationFailed'    => 'validator/ValidationFailed.php',
+    );
+
+    /**
+     * Initializes Propel
+     *
+     * @throws PropelException Any exceptions caught during processing will be
+     *                             rethrown wrapped into a PropelException.
+     */
+    public static function initialize()
+    {
+        if (self::$configuration === null) {
+            throw new PropelException("Propel cannot be initialized without a valid configuration. Please check the log files for further details.");
+        }
+
+        self::configureLogging();
+
+        // reset the connection map (this should enable runtime changes of connection params)
+        self::$connectionMap = array();
+
+        if (isset(self::$configuration['classmap']) && is_array(self::$configuration['classmap'])) {
+            PropelAutoloader::getInstance()->addClassPaths(self::$configuration['classmap']);
+            PropelAutoloader::getInstance()->register();
+        }
+
+        self::$isInit = true;
+    }
+
+    /**
+     * Configure Propel a PHP (array) config file.
+     *
+     * @param      string Path (absolute or relative to include_path) to config file.
+     *
+     * @throws PropelException If configuration file cannot be opened.
+     *                             (E_WARNING probably will also be raised by PHP)
+     */
+    public static function configure($configFile)
+    {
+        $configuration = include($configFile);
+        if ($configuration === false) {
+            throw new PropelException("Unable to open configuration file: " . var_export($configFile, true));
+        }
+        self::setConfiguration($configuration);
+    }
+
+    /**
+     * Configure the logging system, if config is specified in the runtime configuration.
+     */
+    protected static function configureLogging()
+    {
+        if (self::$logger === null) {
+            if (isset(self::$configuration['log']) && is_array(self::$configuration['log']) && count(self::$configuration['log'])) {
+                include_once 'Log.php'; // PEAR Log class
+                $c = self::$configuration['log'];
+                $type = isset($c['type']) ? $c['type'] : 'file';
+                $name = isset($c['name']) ? $c['name'] : './propel.log';
+                $ident = isset($c['ident']) ? $c['ident'] : 'propel';
+                $conf = isset($c['conf']) ? $c['conf'] : array();
+                $level = isset($c['level']) ? $c['level'] : PEAR_LOG_DEBUG;
+                self::$logger = Log::singleton($type, $name, $ident, $conf, $level);
+            } // if isset()
+        }
+    }
+
+    /**
+     * Initialization of Propel a PHP (array) configuration file.
+     *
+     * @param string $c The Propel configuration file path.
+     *
+     * @throws PropelException Any exceptions caught during processing will be
+     *                             rethrown wrapped into a PropelException.
+     */
+    public static function init($c)
+    {
+        self::configure($c);
+        self::initialize();
+    }
+
+    /**
+     * Determine whether Propel has already been initialized.
+     *
+     * @return bool True if Propel is already initialized.
+     */
+    public static function isInit()
+    {
+        return self::$isInit;
+    }
+
+    /**
+     * Sets the configuration for Propel and all dependencies.
+     *
+     * @param      mixed The Configuration (array or PropelConfiguration)
+     */
+    public static function setConfiguration($c)
+    {
+        if (is_array($c)) {
+            if (isset($c['propel']) && is_array($c['propel'])) {
+                $c = $c['propel'];
+            }
+            $c = new PropelConfiguration($c);
+        }
+        self::$configuration = $c;
+    }
+
+    /**
+     * Get the configuration for this component.
+     *
+     * @param      int - PropelConfiguration::TYPE_ARRAY: return the configuration as an array
+     *                   (for backward compatibility this is the default)
+     *                 - PropelConfiguration::TYPE_ARRAY_FLAT: return the configuration as a flat array
+     *                   ($config['name.space.item'])
+     *                 - PropelConfiguration::TYPE_OBJECT: return the configuration as a PropelConfiguration instance
+     * @return mixed The Configuration (array or PropelConfiguration)
+     */
+    public static function getConfiguration($type = PropelConfiguration::TYPE_ARRAY)
+    {
+        return self::$configuration->getParameters($type);
+    }
+
+    /**
+     * Override the configured logger.
+     *
+     * This is primarily for things like unit tests / debugging where
+     * you want to change the logger without altering the configuration file.
+     *
+     * You can use any logger class that implements the propel.logger.BasicLogger
+     * interface.  This interface is based on PEAR::Log, so you can also simply pass
+     * a PEAR::Log object to this method.
+     *
+     * @param      object The new logger to use. ([PEAR] Log or BasicLogger)
+     */
+    public static function setLogger($logger)
+    {
+        self::$logger = $logger;
+    }
+
+    /**
+     * Returns true if a logger, for example PEAR::Log, has been configured,
+     * otherwise false.
+     *
+     * @return bool True if Propel uses logging
+     */
+    public static function hasLogger()
+    {
+        return (self::$logger !== null);
+    }
+
+    /**
+     * Get the configured logger.
+     *
+     * @return object Configured log class ([PEAR] Log or BasicLogger).
+     */
+    public static function logger()
+    {
+        return self::$logger;
+    }
+
+    /**
+     * Logs a message
+     * If a logger has been configured, the logger will be used, otherwrise the
+     * logging message will be discarded without any further action
+     *
+     * @param      string The message that will be logged.
+     * @param      string The logging level.
+     *
+     * @return bool True if the message was logged successfully or no logger was used.
+     */
+    public static function log($message, $level = self::LOG_DEBUG)
+    {
+        if (self::hasLogger()) {
+            $logger = self::logger();
+            switch ($level) {
+            case self::LOG_EMERG:
+                return $logger->log($message, $level);
+            case self::LOG_ALERT:
+                return $logger->alert($message);
+            case self::LOG_CRIT:
+                return $logger->crit($message);
+            case self::LOG_ERR:
+                return $logger->err($message);
+            case self::LOG_WARNING:
+                return $logger->warning($message);
+            case self::LOG_NOTICE:
+                return $logger->notice($message);
+            case self::LOG_INFO:
+                return $logger->info($message);
+            default:
+                return $logger->debug($message);
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * Returns the database map information. Name relates to the name
+     * of the connection pool to associate with the map.
+     *
+     * The database maps are "registered" by the generated map builder classes.
+     *
+     * @param      string The name of the database corresponding to the DatabaseMap to retrieve.
+     *
+     * @return DatabaseMap The named <code>DatabaseMap</code>.
+     *
+     * @throws PropelException - if database map is null or propel was not initialized properly.
+     */
+    public static function getDatabaseMap($name = null)
+    {
+        if ($name === null) {
+            $name = self::getDefaultDB();
+            if ($name === null) {
+                throw new PropelException("DatabaseMap name is null!");
+            }
+        }
+
+        if (!isset(self::$dbMaps[$name])) {
+            $clazz = self::$databaseMapClass;
+            self::$dbMaps[$name] = new $clazz($name);
+        }
+
+        return self::$dbMaps[$name];
+    }
+
+    /**
+     * Sets the database map object to use for specified datasource.
+     *
+     * @param string      $name The datasource name.
+     * @param DatabaseMap $map  The database map object to use for specified datasource.
+     */
+    public static function setDatabaseMap($name, DatabaseMap $map)
+    {
+        if ($name === null) {
+            $name = self::getDefaultDB();
+        }
+        self::$dbMaps[$name] = $map;
+    }
+
+    /**
+     * For replication, set whether to always force the use of a master connection.
+     *
+     * @param boolean $bit True or False
+     */
+    public static function setForceMasterConnection($bit)
+    {
+        self::$forceMasterConnection = (bool) $bit;
+    }
+
+    /**
+     * For replication, whether to always force the use of a master connection.
+     *
+     * @return boolean
+     */
+    public static function getForceMasterConnection()
+    {
+        return self::$forceMasterConnection;
+    }
+
+    /**
+     * Sets a Connection for specified datasource name.
+     *
+     * @param string    $name The datasource name for the connection being set.
+     * @param PropelPDO $con  The PDO connection.
+     * @param string    $mode Whether this is a READ or WRITE connection (Propel::CONNECTION_READ, Propel::CONNECTION_WRITE)
+     */
+    public static function setConnection($name, PropelPDO $con, $mode = Propel::CONNECTION_WRITE)
+    {
+        if ($name === null) {
+            $name = self::getDefaultDB();
+        }
+        if ($mode == Propel::CONNECTION_READ) {
+            self::$connectionMap[$name]['slave'] = $con;
+        } else {
+            self::$connectionMap[$name]['master'] = $con;
+        }
+    }
+
+    /**
+     * Gets an already-opened PDO connection or opens a new one for passed-in db name.
+     *
+     * @param string $name The datasource name that is used to look up the DSN from the runtime configuation file.
+     * @param string $mode The connection mode (this applies to replication systems).
+     *
+     * @return PDO A database connection
+     *
+     * @throws PropelException - if connection cannot be configured or initialized.
+     */
+    public static function getConnection($name = null, $mode = Propel::CONNECTION_WRITE)
+    {
+        if ($name === null) {
+            $name = self::getDefaultDB();
+        }
+
+        // IF a WRITE-mode connection was requested
+        // or Propel is configured to always use the master connection
+        // THEN return the master connection.
+        if ($mode != Propel::CONNECTION_READ || self::$forceMasterConnection) {
+            return self::getMasterConnection($name);
+        } else {
+            return self::getSlaveConnection($name);
+        }
+
+    }
+
+    /**
+     * Gets an already-opened write PDO connection or opens a new one for passed-in db name.
+     *
+     * @param string $name The datasource name that is used to look up the DSN
+     *                          from the runtime configuation file. Empty name not allowed.
+     *
+     * @return PDO A database connection
+     *
+     * @throws PropelException - if connection cannot be configured or initialized.
+     */
+    public static function getMasterConnection($name)
+    {
+        if (!isset(self::$connectionMap[$name]['master'])) {
+            // load connection parameter for master connection
+            $conparams = isset(self::$configuration['datasources'][$name]['connection']) ? self::$configuration['datasources'][$name]['connection'] : null;
+            if (empty($conparams)) {
+                throw new PropelException('No connection information in your runtime configuration file for datasource ['.$name.']');
+            }
+
+            // initialize master connection
+            if ($name != "pendataan_ro") {
+                $conparams['dsn'] = self::getDsnMaster($name);
+            }
+            $con = Propel::initConnection($conparams, $name);
+            self::$connectionMap[$name]['master'] = $con;
+        }
+
+        return self::$connectionMap[$name]['master'];
+    }
+
+    /**
+     * Gets an already-opened read PDO connection or opens a new one for passed-in db name.
+     *
+     * @param string $name The datasource name that is used to look up the DSN
+     *                          from the runtime configuation file. Empty name not allowed.
+     *
+     * @return PDO A database connection
+     *
+     * @throws PropelException - if connection cannot be configured or initialized.
+     */
+    public static function getSlaveConnection($name)
+    {
+        if (!isset(self::$connectionMap[$name]['slave'])) {
+
+            $slaveconfigs = isset(self::$configuration['datasources'][$name]['slaves']) ? self::$configuration['datasources'][$name]['slaves'] : null;
+
+            if (empty($slaveconfigs)) {
+                // no slaves configured for this datasource
+                // fallback to the master connection
+                self::$connectionMap[$name]['slave'] = self::getMasterConnection($name);
+            } else {
+                // Initialize a new slave
+                if (isset($slaveconfigs['connection']['dsn'])) {
+                    // only one slave connection configured
+                    $conparams = $slaveconfigs['connection'];
+                } else {
+                    // more than one sleve connection configured
+                    // pickup a random one
+                    $randkey = array_rand($slaveconfigs['connection']);
+                    $conparams = $slaveconfigs['connection'][$randkey];
+                    if (empty($conparams)) {
+                        throw new PropelException('No connection information in your runtime configuration file for SLAVE ['.$randkey.'] to datasource ['.$name.']');
+                    }
+                }
+
+                // initialize slave connection
+                $con = Propel::initConnection($conparams, $name);
+                self::$connectionMap[$name]['slave'] = $con;
+            }
+
+        } // if datasource slave not set
+
+        return self::$connectionMap[$name]['slave'];
+    }
+
+    /**
+     * Opens a new PDO connection for passed-in db name.
+     *
+     * @param array  $conparams    Connection paramters.
+     * @param string $name         Datasource name.
+     * @param string $defaultClass The PDO subclass to instantiate if there is no explicit classname
+     * 									specified in the connection params (default is Propel::CLASS_PROPEL_PDO)
+     *
+     * @return PDO A database connection of the given class (PDO, PropelPDO, SlavePDO or user-defined)
+     *
+     * @throws PropelException - if lower-level exception caught when trying to connect.
+     */
+    public static function initConnection($conparams, $name, $defaultClass = Propel::CLASS_PROPEL_PDO)
+    {
+        $adapter = self::getDB($name);
+
+        if (null === $conparams['dsn']) {
+            throw new PropelException('No dsn specified in your connection parameters for datasource ['.$name.']');
+        }
+
+        $conparams = $adapter->prepareParams($conparams);
+
+        if (isset($conparams['classname']) && !empty($conparams['classname'])) {
+            $classname = $conparams['classname'];
+            if (!class_exists($classname)) {
+                throw new PropelException('Unable to load specified PDO subclass: ' . $classname);
+            }
+        } else {
+            $classname = $defaultClass;
+        }
+
+        $dsn	  = $conparams['dsn'];
+        $user	  = isset($conparams['user']) ? $conparams['user'] : null;
+        $password = isset($conparams['password']) ? $conparams['password'] : null;
+
+        // load any driver options from the config file
+        // driver options are those PDO settings that have to be passed during the connection construction
+        $driver_options = array();
+        if ( isset($conparams['options']) && is_array($conparams['options']) ) {
+            try {
+                self::processDriverOptions( $conparams['options'], $driver_options );
+            } catch (PropelException $e) {
+                throw new PropelException('Error processing driver options for datasource ['.$name.']', $e);
+            }
+        }
+
+        try {
+            $con = new $classname($dsn, $user, $password, $driver_options);
+            $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            $con->setAttribute(PropelPDO::PROPEL_ATTR_CONNECTION_NAME, $name);
+        } catch (PDOException $e) {
+            throw new PropelException("Unable to open PDO connection", $e);
+        }
+
+        // load any connection options from the config file
+        // connection attributes are those PDO flags that have to be set on the initialized connection
+        if (isset($conparams['attributes']) && is_array($conparams['attributes'])) {
+            $attributes = array();
+            try {
+                self::processDriverOptions( $conparams['attributes'], $attributes );
+            } catch (PropelException $e) {
+                throw new PropelException('Error processing connection attributes for datasource ['.$name.']', $e);
+            }
+            foreach ($attributes as $key => $value) {
+                $con->setAttribute($key, $value);
+            }
+        }
+
+        // initialize the connection using the settings provided in the config file. this could be a "SET NAMES <charset>" query for MySQL, for instance
+        $adapter->initConnection($con, isset($conparams['settings']) && is_array($conparams['settings']) ? $conparams['settings'] : array());
+
+        return $con;
+    }
+
+    /**
+     * Internal function to handle driver options or conneciton attributes in PDO.
+     *
+     * Process the INI file flags to be passed to each connection.
+     *
+     * @param      array Where to find the list of constant flags and their new setting.
+     * @param      array Put the data into here
+     *
+     * @throws PropelException If invalid options were specified.
+     */
+    private static function processDriverOptions($source, &$write_to)
+    {
+        foreach ($source as $option => $optiondata) {
+            if (is_string($option) && strpos($option, '::') !== false) {
+                $key = $option;
+            } elseif (is_string($option)) {
+                $key = 'PropelPDO::' . $option;
+            }
+            if (!defined($key)) {
+                throw new PropelException("Invalid PDO option/attribute name specified: ".$key);
+            }
+            $key = constant($key);
+
+            $value = $optiondata['value'];
+            if (is_string($value) && strpos($value, '::') !== false) {
+                if (!defined($value)) {
+                    throw new PropelException("Invalid PDO option/attribute value specified: ".$value);
+                }
+                $value = constant($value);
+            }
+
+            $write_to[$key] = $value;
+        }
+    }
+
+    /**
+     * Returns database adapter for a specific datasource.
+     *
+     * @param      string The datasource name.
+     *
+     * @return DBAdapter The corresponding database adapter.
+     *
+     * @throws PropelException If unable to find DBdapter for specified db.
+     */
+    public static function getDB($name = null)
+    {
+        if ($name === null) {
+            $name = self::getDefaultDB();
+        }
+
+        if (!isset(self::$adapterMap[$name])) {
+            if (!isset(self::$configuration['datasources'][$name]['adapter'])) {
+                throw new PropelException("Unable to find adapter for datasource [" . $name . "].");
+            }
+            $db = DBAdapter::factory(self::$configuration['datasources'][$name]['adapter']);
+            // register the adapter for this name
+            self::$adapterMap[$name] = $db;
+        }
+
+        return self::$adapterMap[$name];
+    }
+
+    /**
+     * Sets a database adapter for specified datasource.
+     *
+     * @param string    $name    The datasource name.
+     * @param DBAdapter $adapter The DBAdapter implementation to use.
+     */
+    public static function setDB($name, DBAdapter $adapter)
+    {
+        if ($name === null) {
+            $name = self::getDefaultDB();
+        }
+        self::$adapterMap[$name] = $adapter;
+    }
+
+    /**
+     * Returns the name of the default database.
+     *
+     * @return string Name of the default DB
+     */
+    public static function getDefaultDB()
+    {
+        if (self::$defaultDBName === null) {
+            // Determine default database name.
+            self::$defaultDBName = isset(self::$configuration['datasources']['default']) && is_scalar(self::$configuration['datasources']['default']) ? self::$configuration['datasources']['default'] : self::DEFAULT_NAME;
+        }
+
+        return self::$defaultDBName;
+    }
+
+    /**
+     * Closes any associated resource handles.
+     *
+     * This method frees any database connection handles that have been
+     * opened by the getConnection() method.
+     */
+    public static function close()
+    {
+        foreach (self::$connectionMap as $idx => $cons) {
+            // Propel::log("Closing connections for " . $idx, Propel::LOG_DEBUG);
+            unset(self::$connectionMap[$idx]);
+        }
+    }
+
+    private static function getDsnMaster($name)
+    {
+        include_once 'adapter/DBMaria.php';
+
+        $newDsn = DBMaria::getDsnMasterMaria($name);
+        return $newDsn;
+    }
+
+    /**
+     * Autoload function for loading propel dependencies.
+     *
+     * @param      string The class name needing loading.
+     *
+     * @return boolean TRUE if the class was loaded, false otherwise.
+     */
+    public static function autoload($className)
+    {
+        if (isset(self::$autoloadMap[$className])) {
+            require self::$baseDir . self::$autoloadMap[$className];
+
+            return true;
+        }
+
+        return false;
+    }
+
+    /**
+     * Initialize the base directory for the autoloader.
+     * Avoids a call to dirname(__FILE__) each time self::autoload() is called.
+     * FIXME put in the constructor if the Propel class ever becomes a singleton
+     */
+    public static function initBaseDir()
+    {
+        self::$baseDir = dirname(__FILE__) . '/';
+    }
+
+    /**
+     * Include once a file specified in DOT notation and return unqualified classname.
+     *
+     * Typically, Propel uses autoload is used to load classes and expects that all classes
+     * referenced within Propel are included in Propel's autoload map.  This method is only
+     * called when a specific non-Propel classname was specified -- for example, the
+     * classname of a validator in the schema.xml.  This method will attempt to include that
+     * class via autoload and then relative to a location on the include_path.
+     *
+     * @param  string $class dot-path to clas (e.g. path.to.my.ClassName).
+     * @return string unqualified classname
+     *
+     * @throws PropelException
+     */
+    public static function importClass($path)
+    {
+        // extract classname
+        if (($pos = strrpos($path, '.')) === false) {
+            $class = $path;
+        } else {
+            $class = substr($path, $pos + 1);
+        }
+
+        // check if class exists, using autoloader to attempt to load it.
+        if (class_exists($class, $useAutoload=true)) {
+            return $class;
+        }
+
+        // turn to filesystem path
+        $path = strtr($path, '.', DIRECTORY_SEPARATOR) . '.php';
+
+        // include class
+        $ret = include_once($path);
+        if ($ret === false) {
+            throw new PropelException("Unable to import class: " . $class . " from " . $path);
+        }
+
+        // return qualified name
+        return $class;
+    }
+
+    /**
+     * Set your own class-name for Database-Mapping. Then
+     * you can change the whole TableMap-Model, but keep its
+     * functionality for Criteria.
+     *
+     * @param      string The name of the class.
+     */
+    public static function setDatabaseMapClass($name)
+    {
+        self::$databaseMapClass = $name;
+    }
+
+    /**
+     * Disable instance pooling.
+     *
+     * @return boolean true if the method changed the instance pooling state,
+     *                 false if it was already disabled
+     */
+    public static function disableInstancePooling()
+    {
+        if (!self::$instancePoolingEnabled) {
+            return false;
+        }
+        self::$instancePoolingEnabled = false;
+
+        return true;
+    }
+
+    /**
+     * Enable instance pooling (enabled by default).
+     *
+     * @return boolean true if the method changed the instance pooling state,
+     *                 false if it was already enabled
+     */
+    public static function enableInstancePooling()
+    {
+        if (self::$instancePoolingEnabled) {
+            return false;
+        }
+        self::$instancePoolingEnabled = true;
+
+        return true;
+    }
+
+    /**
+     *  the instance pooling behaviour. True by default.
+     *
+     * @return boolean Whether the pooling is enabled or not.
+     */
+    public static function isInstancePoolingEnabled()
+    {
+        return self::$instancePoolingEnabled;
+    }
+}
+
+// Since the Propel class is not a true singleton, this code cannot go into the __construct()
+Propel::initBaseDir();
+spl_autoload_register(array('Propel', 'autoload'));

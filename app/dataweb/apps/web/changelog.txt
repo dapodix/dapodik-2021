@@ -1,6 +1,22 @@
 <body>
 <div id="form">
 <fieldset class="fieldset">
+<legend><h3>versi 2021.b</h3></legend>
+	<ol>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan No Surat Keterangan Melek Aksara (SUKMA) dan No seri Ijazah untuk jenjang PKBM dan SKB.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi riwayat pendidikan formal berjenjang utk GTK.</li>
+		<li><b style="color:green">[Perbaikan]</b> Menghilangkan isian lingkar kepala pada data rinci Peserta Didik untuk jenjang PKBM dan SKB.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perbaikan pada proses penentuan role pengguna dan peran.</li>
+		<li><b style="color:green">[Perbaikan]</b> Penambahan beberapa atribut pelengkap pada <i>Endpoint</i> getGtk pada fitur web service.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perubahan proses bisnis ketika akan melakukan sinkronisasi (harus memiliki hak akses sebagai Kepala Sekolah).</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing pada saat penambahan/perubahan akun GTK untuk jenjang PAUD/PKBM/SKB dan SD.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing untuk menampilkan data pengguna pada Manajemen Pengguna.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing rombel daring untuk jenjang PKBM dan SKB.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing saat penarikan data satuan pendidikan pada fitur proses Tarik Data.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing pada saat proses prefill nilai rapor.</li>
+	</ol>
+</fieldset>
+<fieldset class="fieldset">
 <legend><h3>versi 2021.a</h3></legend>
 	<ol>
 		<li><b style="color:blue">[Pembaruan]</b> Penambahan jenis rombel baru Daring/PJJ pada jenjang PKBM/SKB.</li>
