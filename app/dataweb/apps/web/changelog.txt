@@ -1,6 +1,27 @@
 <body>
 <div id="form">
 <fieldset class="fieldset">
+<legend><h3>versi 2021.a</h3></legend>
+	<ol>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan jenis rombel baru Daring/PJJ pada jenjang PKBM/SKB.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan jenis rombel baru Kursus pada jenjang PKBM/SKB.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan pemilihan role pengguna ketika saat setelah login.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan bisnis proses pada login operator sekolah dapat menggunakan fitur tarik data.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing pada API validasi untuk proses sinkronisasi.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing SILN tidak dapat tambah GTK baru.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing fitur penambahan/perubahan Akun GTK.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing perubahan password dengan metode enkripsi baru.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing validasi untuk menghitung rasio rombel paralel terhadap jumlah peserta didik.</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing validasi pengecekan kondisi bangunan.</li>
+		<li><b style="color:green">[Perbaikan]</b> Pembukaan kembali isian riwayat pendidikan formal bagi GTK dengan batas waktu yang telah ditentukan.</li>
+		<li><b style="color:green">[Perbaikan]</b> Pelepasan pengecekan data akun Kepala Sekolah/PLT Kepala Sekolah pada saat registrasi baik online maupun offline dan pada saat login ke Aplikasi Dapodik.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perubahan bisnis proses aturan pada saat memetakan peserta didik ke dalam rombongan belajar untuk jenjang SLB.</li>
+	</ol>
+	<p><h3>Perekaman dan Perubahan Akun GTK untuk Jenjang PAUD-Dikmas dan SD</h3>
+	<img src="resources/images/alur_akun.jpg" width="80%">
+	</p>
+</fieldset>
+<fieldset class="fieldset">
 <legend><h3>versi 2021</h3></legend>
 	<ol>
 		<li><b style="color:blue">[Pembaruan]</b> Penyesuaian aplikasi setelah penggabungan antara Dapo PAUD-Dikmas dan Dapodikdasmen.</li>

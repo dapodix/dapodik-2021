@@ -353,7 +353,7 @@
 #headerPanel-targetEl .x-btn-soft-green-small .x-btn-icon-el-soft-green-small:hover {
     color: #e6e6e6 !important;
 }
-#panel-1016-body {
+/* #panel-1016-body {
     background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) rgb(156, 39, 176) !important;
     box-shadow: inset 0 0 15px 0px rgb(156, 39, 176);
 }
@@ -417,7 +417,7 @@
     animation: wave 10s cubic-bezier( 0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
     opacity: .1;
     transform: translate3d(0, 0, 0);
-}
+} */
 @keyframes wave {
   0% {
     margin-left: 0;
