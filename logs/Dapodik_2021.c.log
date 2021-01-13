@@ -7,7 +7,7 @@
 2021-01-13 23:32:37.983   Processor architecture: x64
 2021-01-13 23:32:37.983   User privileges: Administrative
 2021-01-13 23:32:38.090   64-bit install mode: No
-2021-01-13 23:32:38.100   Created temporary directory: C:\Users\HABIBR~1\AppData\Local\Temp\is-9DJHJ.tmp
+2021-01-13 23:32:38.100   Created temporary directory: C:\Users\User\AppData\Local\Temp\is-9DJHJ.tmp
 2021-01-13 23:32:38.114   -- DLL function import --
 2021-01-13 23:32:38.114   Function name: MsiQueryProductStateA
 2021-01-13 23:32:38.114   DLL name: msi.dll
