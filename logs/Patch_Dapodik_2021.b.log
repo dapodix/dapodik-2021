@@ -1,0 +1,463 @@
+2021-01-13 23:10:14.141   Log opened. (Time zone: UTC+07:00)
+2021-01-13 23:10:14.141   Setup version: Inno Setup version 5.6.1 (a)
+2021-01-13 23:10:14.141   Original Setup EXE: D:\Installer\Programs\Patch_Dapodik_2021.b.exe
+2021-01-13 23:10:14.141   Setup command line: /SL5="$C06F4,10502142,59392,D:\Installer\Programs\Patch_Dapodik_2021.b.exe" /SP- /VERYSILENT /SUPPRESSMSGBOXES /LOG=Patch_Dapodik_2021.b.log /NORESTART
+2021-01-13 23:10:14.141   Windows version: 10.0.19042  (NT platform: Yes)
+2021-01-13 23:10:14.141   64-bit Windows: Yes
+2021-01-13 23:10:14.141   Processor architecture: x64
+2021-01-13 23:10:14.141   User privileges: Administrative
+2021-01-13 23:10:14.155   64-bit install mode: No
+2021-01-13 23:10:14.165   Created temporary directory: C:\Users\User\AppData\Local\Temp\is-3N14M.tmp
+2021-01-13 23:10:14.180   -- DLL function import --
+2021-01-13 23:10:14.180   Function name: MsiQueryProductStateA
+2021-01-13 23:10:14.180   DLL name: msi.dll
+2021-01-13 23:10:14.180   Dest DLL name: msi.dll
+2021-01-13 23:10:14.180   Importing the DLL function.
+2021-01-13 23:10:14.183   Successfully imported the DLL function. Delay loaded? No
+2021-01-13 23:10:14.183   -- DLL function import --
+2021-01-13 23:10:14.183   Function name: SetEnvironmentVariableA
+2021-01-13 23:10:14.183   DLL name: kernel32.dll
+2021-01-13 23:10:14.183   Dest DLL name: kernel32.dll
+2021-01-13 23:10:14.183   Importing the DLL function.
+2021-01-13 23:10:14.183   Successfully imported the DLL function. Delay loaded? No
+2021-01-13 23:10:14.183   Message box (Yes/No):
+                          Bagi sekolah yang telah berhasil melakukan sinkronisasi pada Aplikasi Dapodik versi 2021, maka disarankan menggunakan Fresh Installer versi 2021. Terima Kasih
+2021-01-13 23:10:15.534   User chose Yes.
+2021-01-13 23:10:15.711   Starting the installation process.
+2021-01-13 23:10:15.715   Directory for uninstall files: C:\Program Files (x86)\Dapodik\uninst
+2021-01-13 23:10:15.797   Will append to existing uninstall log: C:\Program Files (x86)\Dapodik\uninst\unins000.dat
+2021-01-13 23:10:15.800   -- File entry --
+2021-01-13 23:10:15.800   Dest filename: C:\Program Files (x86)\Dapodik\uninst\unins000.exe
+2021-01-13 23:10:15.805   Time stamp of our file: 2021-01-13 23:10:13.455
+2021-01-13 23:10:15.805   Dest file exists.
+2021-01-13 23:10:15.805   Time stamp of existing file: 2021-01-13 23:00:44.103
+2021-01-13 23:10:15.805   Version of our file: 51.52.0.0
+2021-01-13 23:10:16.036   Version of existing file: 51.52.0.0
+2021-01-13 23:10:16.036   Installing the file.
+2021-01-13 23:10:16.040   Uninstaller requires administrator: Yes
+2021-01-13 23:10:16.041   Leaving temporary file in place for now.
+2021-01-13 23:10:16.041   -- File entry --
+2021-01-13 23:10:16.042   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\app\app.php
+2021-01-13 23:10:16.042   Time stamp of our file: 2020-09-29 10:29:24.000
+2021-01-13 23:10:16.042   Dest file exists.
+2021-01-13 23:10:16.042   Time stamp of existing file: 2020-08-08 11:17:26.000
+2021-01-13 23:10:16.042   Version of our file: (none)
+2021-01-13 23:10:16.070   Version of existing file: (none)
+2021-01-13 23:10:16.071   Installing the file.
+2021-01-13 23:10:16.078   Successfully installed the file.
+2021-01-13 23:10:16.078   -- File entry --
+2021-01-13 23:10:16.078   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\app\config\conf\pendataan-conf.php
+2021-01-13 23:10:16.079   Time stamp of our file: 2020-11-09 11:53:34.000
+2021-01-13 23:10:16.079   Dest file exists.
+2021-01-13 23:10:16.079   Time stamp of existing file: 2021-01-13 22:38:14.819
+2021-01-13 23:10:16.079   Version of our file: (none)
+2021-01-13 23:10:16.080   Version of existing file: (none)
+2021-01-13 23:10:16.080   Installing the file.
+2021-01-13 23:10:16.084   Successfully installed the file.
+2021-01-13 23:10:16.084   -- File entry --
+2021-01-13 23:10:16.084   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Auth.php
+2021-01-13 23:10:16.084   Time stamp of our file: 2020-11-20 20:03:58.000
+2021-01-13 23:10:16.085   Dest file exists.
+2021-01-13 23:10:16.085   Time stamp of existing file: 2020-08-18 00:14:48.000
+2021-01-13 23:10:16.085   Version of our file: (none)
+2021-01-13 23:10:16.119   Version of existing file: (none)
+2021-01-13 23:10:16.119   Installing the file.
+2021-01-13 23:10:16.138   Successfully installed the file.
+2021-01-13 23:10:16.138   -- File entry --
+2021-01-13 23:10:16.138   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Beranda.php
+2021-01-13 23:10:16.139   Time stamp of our file: 2020-09-11 07:08:48.000
+2021-01-13 23:10:16.139   Dest file exists.
+2021-01-13 23:10:16.139   Time stamp of existing file: 2020-08-05 09:45:56.000
+2021-01-13 23:10:16.139   Version of our file: (none)
+2021-01-13 23:10:16.174   Version of existing file: (none)
+2021-01-13 23:10:16.174   Installing the file.
+2021-01-13 23:10:16.182   Successfully installed the file.
+2021-01-13 23:10:16.183   -- File entry --
+2021-01-13 23:10:16.183   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\CheckboxGroupInfo.php
+2021-01-13 23:10:16.183   Time stamp of our file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.183   Dest file exists.
+2021-01-13 23:10:16.184   Time stamp of existing file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.184   Version of our file: (none)
+2021-01-13 23:10:16.186   Version of existing file: (none)
+2021-01-13 23:10:16.186   Installing the file.
+2021-01-13 23:10:16.190   Successfully installed the file.
+2021-01-13 23:10:16.191   -- File entry --
+2021-01-13 23:10:16.191   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\ColumnInfo.php
+2021-01-13 23:10:16.191   Time stamp of our file: 2019-07-15 07:39:24.000
+2021-01-13 23:10:16.191   Dest file exists.
+2021-01-13 23:10:16.192   Time stamp of existing file: 2019-07-15 07:39:24.000
+2021-01-13 23:10:16.192   Version of our file: (none)
+2021-01-13 23:10:16.220   Version of existing file: (none)
+2021-01-13 23:10:16.220   Installing the file.
+2021-01-13 23:10:16.226   Successfully installed the file.
+2021-01-13 23:10:16.226   -- File entry --
+2021-01-13 23:10:16.226   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\CustomRest.php
+2021-01-13 23:10:16.227   Time stamp of our file: 2020-11-20 13:36:34.000
+2021-01-13 23:10:16.227   Dest file exists.
+2021-01-13 23:10:16.227   Time stamp of existing file: 2020-08-15 11:57:00.000
+2021-01-13 23:10:16.227   Version of our file: (none)
+2021-01-13 23:10:16.278   Version of existing file: (none)
+2021-01-13 23:10:16.279   Installing the file.
+2021-01-13 23:10:16.325   Successfully installed the file.
+2021-01-13 23:10:16.326   -- File entry --
+2021-01-13 23:10:16.326   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Download.php
+2021-01-13 23:10:16.326   Time stamp of our file: 2020-11-12 12:11:58.000
+2021-01-13 23:10:16.326   Dest file exists.
+2021-01-13 23:10:16.326   Time stamp of existing file: 2020-08-05 09:46:24.000
+2021-01-13 23:10:16.326   Version of our file: (none)
+2021-01-13 23:10:16.355   Version of existing file: (none)
+2021-01-13 23:10:16.356   Installing the file.
+2021-01-13 23:10:16.365   Successfully installed the file.
+2021-01-13 23:10:16.365   -- File entry --
+2021-01-13 23:10:16.365   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Excel.php
+2021-01-13 23:10:16.365   Time stamp of our file: 2019-08-17 06:24:08.000
+2021-01-13 23:10:16.365   Dest file exists.
+2021-01-13 23:10:16.366   Time stamp of existing file: 2019-08-17 06:24:08.000
+2021-01-13 23:10:16.366   Version of our file: (none)
+2021-01-13 23:10:16.392   Version of existing file: (none)
+2021-01-13 23:10:16.392   Installing the file.
+2021-01-13 23:10:16.397   Successfully installed the file.
+2021-01-13 23:10:16.397   -- File entry --
+2021-01-13 23:10:16.397   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\ExcelExt.php
+2021-01-13 23:10:16.398   Time stamp of our file: 2019-04-09 20:17:48.000
+2021-01-13 23:10:16.398   Dest file exists.
+2021-01-13 23:10:16.398   Time stamp of existing file: 2019-04-09 20:17:48.000
+2021-01-13 23:10:16.398   Version of our file: (none)
+2021-01-13 23:10:16.448   Version of existing file: (none)
+2021-01-13 23:10:16.448   Installing the file.
+2021-01-13 23:10:16.493   Successfully installed the file.
+2021-01-13 23:10:16.493   -- File entry --
+2021-01-13 23:10:16.493   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\FieldgroupInfo.php
+2021-01-13 23:10:16.494   Time stamp of our file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.494   Dest file exists.
+2021-01-13 23:10:16.494   Time stamp of existing file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.494   Version of our file: (none)
+2021-01-13 23:10:16.496   Version of existing file: (none)
+2021-01-13 23:10:16.496   Installing the file.
+2021-01-13 23:10:16.500   Successfully installed the file.
+2021-01-13 23:10:16.500   -- File entry --
+2021-01-13 23:10:16.500   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\FieldsetInfo.php
+2021-01-13 23:10:16.501   Time stamp of our file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.501   Dest file exists.
+2021-01-13 23:10:16.501   Time stamp of existing file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.501   Version of our file: (none)
+2021-01-13 23:10:16.503   Version of existing file: (none)
+2021-01-13 23:10:16.503   Installing the file.
+2021-01-13 23:10:16.507   Successfully installed the file.
+2021-01-13 23:10:16.507   -- File entry --
+2021-01-13 23:10:16.507   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\GroupInfo.php
+2021-01-13 23:10:16.507   Time stamp of our file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.508   Dest file exists.
+2021-01-13 23:10:16.508   Time stamp of existing file: 2013-07-21 13:05:42.000
+2021-01-13 23:10:16.508   Version of our file: (none)
+2021-01-13 23:10:16.510   Version of existing file: (none)
+2021-01-13 23:10:16.510   Installing the file.
+2021-01-13 23:10:16.514   Successfully installed the file.
+2021-01-13 23:10:16.514   -- File entry --
+2021-01-13 23:10:16.514   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Gtk.php
+2021-01-13 23:10:16.515   Time stamp of our file: 2020-08-17 11:51:56.000
+2021-01-13 23:10:16.515   Dest file exists.
+2021-01-13 23:10:16.515   Time stamp of existing file: 2020-08-17 11:51:56.000
+2021-01-13 23:10:16.515   Version of our file: (none)
+2021-01-13 23:10:16.545   Version of existing file: (none)
+2021-01-13 23:10:16.545   Installing the file.
+2021-01-13 23:10:16.554   Successfully installed the file.
+2021-01-13 23:10:16.555   -- File entry --
+2021-01-13 23:10:16.555   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\HboxformInfo.php
+2021-01-13 23:10:16.555   Time stamp of our file: 2014-03-25 00:22:36.000
+2021-01-13 23:10:16.555   Dest file exists.
+2021-01-13 23:10:16.555   Time stamp of existing file: 2014-03-25 00:22:36.000
+2021-01-13 23:10:16.556   Version of our file: (none)
+2021-01-13 23:10:16.558   Version of existing file: (none)
+2021-01-13 23:10:16.558   Installing the file.
+2021-01-13 23:10:16.562   Successfully installed the file.
+2021-01-13 23:10:16.562   -- File entry --
+2021-01-13 23:10:16.562   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\JadwalModule.php
+2021-01-13 23:10:16.562   Time stamp of our file: 2019-08-06 09:12:16.000
+2021-01-13 23:10:16.562   Dest file exists.
+2021-01-13 23:10:16.563   Time stamp of existing file: 2019-08-06 09:12:16.000
+2021-01-13 23:10:16.563   Version of our file: (none)
+2021-01-13 23:10:16.590   Version of existing file: (none)
+2021-01-13 23:10:16.590   Installing the file.
+2021-01-13 23:10:16.597   Successfully installed the file.
+2021-01-13 23:10:16.598   -- File entry --
+2021-01-13 23:10:16.598   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Nilai.php
+2021-01-13 23:10:16.598   Time stamp of our file: 2019-04-08 12:21:34.000
+2021-01-13 23:10:16.598   Dest file exists.
+2021-01-13 23:10:16.598   Time stamp of existing file: 2019-04-08 12:21:34.000
+2021-01-13 23:10:16.598   Version of our file: (none)
+2021-01-13 23:10:16.628   Version of existing file: (none)
+2021-01-13 23:10:16.629   Installing the file.
+2021-01-13 23:10:16.640   Successfully installed the file.
+2021-01-13 23:10:16.640   -- File entry --
+2021-01-13 23:10:16.640   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Pembelajaran.php
+2021-01-13 23:10:16.641   Time stamp of our file: 2020-09-14 13:39:50.000
+2021-01-13 23:10:16.641   Dest file exists.
+2021-01-13 23:10:16.641   Time stamp of existing file: 2020-08-15 12:03:32.000
+2021-01-13 23:10:16.641   Version of our file: (none)
+2021-01-13 23:10:16.670   Version of existing file: (none)
+2021-01-13 23:10:16.670   Installing the file.
+2021-01-13 23:10:16.679   Successfully installed the file.
+2021-01-13 23:10:16.679   -- File entry --
+2021-01-13 23:10:16.679   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\PesertaDidikCustom.php
+2021-01-13 23:10:16.679   Time stamp of our file: 2020-10-19 16:11:08.000
+2021-01-13 23:10:16.679   Dest file exists.
+2021-01-13 23:10:16.680   Time stamp of existing file: 2020-08-11 14:10:52.000
+2021-01-13 23:10:16.680   Version of our file: (none)
+2021-01-13 23:10:16.710   Version of existing file: (none)
+2021-01-13 23:10:16.710   Installing the file.
+2021-01-13 23:10:16.722   Successfully installed the file.
+2021-01-13 23:10:16.722   -- File entry --
+2021-01-13 23:10:16.722   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Pustaka.php
+2021-01-13 23:10:16.722   Time stamp of our file: 2020-01-20 11:32:22.000
+2021-01-13 23:10:16.722   Dest file exists.
+2021-01-13 23:10:16.723   Time stamp of existing file: 2020-01-20 11:32:22.000
+2021-01-13 23:10:16.723   Version of our file: (none)
+2021-01-13 23:10:16.750   Version of existing file: (none)
+2021-01-13 23:10:16.750   Installing the file.
+2021-01-13 23:10:16.755   Successfully installed the file.
+2021-01-13 23:10:16.755   -- File entry --
+2021-01-13 23:10:16.755   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Registration.php
+2021-01-13 23:10:16.756   Time stamp of our file: 2017-12-13 14:43:58.000
+2021-01-13 23:10:16.756   Dest file exists.
+2021-01-13 23:10:16.756   Time stamp of existing file: 2017-12-13 14:43:58.000
+2021-01-13 23:10:16.756   Version of our file: (none)
+2021-01-13 23:10:16.783   Version of existing file: (none)
+2021-01-13 23:10:16.783   Installing the file.
+2021-01-13 23:10:16.788   Successfully installed the file.
+2021-01-13 23:10:16.788   -- File entry --
+2021-01-13 23:10:16.788   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Rest.php
+2021-01-13 23:10:16.789   Time stamp of our file: 2020-11-12 09:49:06.000
+2021-01-13 23:10:16.789   Dest file exists.
+2021-01-13 23:10:16.789   Time stamp of existing file: 2020-08-12 09:36:26.000
+2021-01-13 23:10:16.789   Version of our file: (none)
+2021-01-13 23:10:16.822   Version of existing file: (none)
+2021-01-13 23:10:16.822   Installing the file.
+2021-01-13 23:10:16.836   Successfully installed the file.
+2021-01-13 23:10:16.836   -- File entry --
+2021-01-13 23:10:16.836   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Sarpras.php
+2021-01-13 23:10:16.837   Time stamp of our file: 2020-09-14 12:48:04.000
+2021-01-13 23:10:16.837   Dest file exists.
+2021-01-13 23:10:16.837   Time stamp of existing file: 2020-07-08 14:34:34.000
+2021-01-13 23:10:16.837   Version of our file: (none)
+2021-01-13 23:10:16.867   Version of existing file: (none)
+2021-01-13 23:10:16.867   Installing the file.
+2021-01-13 23:10:16.877   Successfully installed the file.
+2021-01-13 23:10:16.877   -- File entry --
+2021-01-13 23:10:16.877   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Sc.php
+2021-01-13 23:10:16.878   Time stamp of our file: 2016-07-11 11:56:18.000
+2021-01-13 23:10:16.878   Dest file exists.
+2021-01-13 23:10:16.878   Time stamp of existing file: 2016-07-11 11:56:18.000
+2021-01-13 23:10:16.878   Version of our file: (none)
+2021-01-13 23:10:16.880   Version of existing file: (none)
+2021-01-13 23:10:16.880   Installing the file.
+2021-01-13 23:10:16.885   Successfully installed the file.
+2021-01-13 23:10:16.885   -- File entry --
+2021-01-13 23:10:16.885   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\TableInfo.php
+2021-01-13 23:10:16.885   Time stamp of our file: 2019-07-22 13:08:20.000
+2021-01-13 23:10:16.885   Dest file exists.
+2021-01-13 23:10:16.886   Time stamp of existing file: 2019-07-22 13:08:20.000
+2021-01-13 23:10:16.886   Version of our file: (none)
+2021-01-13 23:10:16.912   Version of existing file: (none)
+2021-01-13 23:10:16.913   Installing the file.
+2021-01-13 23:10:16.918   Successfully installed the file.
+2021-01-13 23:10:16.919   -- File entry --
+2021-01-13 23:10:16.919   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelFormatImportNilai.php
+2021-01-13 23:10:16.919   Time stamp of our file: 2019-02-25 15:53:54.000
+2021-01-13 23:10:16.919   Dest file exists.
+2021-01-13 23:10:16.920   Time stamp of existing file: 2019-02-25 15:53:54.000
+2021-01-13 23:10:16.920   Version of our file: (none)
+2021-01-13 23:10:16.949   Version of existing file: (none)
+2021-01-13 23:10:16.949   Installing the file.
+2021-01-13 23:10:16.959   Successfully installed the file.
+2021-01-13 23:10:16.959   -- File entry --
+2021-01-13 23:10:16.959   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelNilai.php
+2021-01-13 23:10:16.960   Time stamp of our file: 2019-04-09 20:19:26.000
+2021-01-13 23:10:16.960   Dest file exists.
+2021-01-13 23:10:16.960   Time stamp of existing file: 2019-04-09 20:19:26.000
+2021-01-13 23:10:16.960   Version of our file: (none)
+2021-01-13 23:10:16.987   Version of existing file: (none)
+2021-01-13 23:10:16.987   Installing the file.
+2021-01-13 23:10:16.994   Successfully installed the file.
+2021-01-13 23:10:16.994   -- File entry --
+2021-01-13 23:10:16.994   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelPd.php
+2021-01-13 23:10:16.995   Time stamp of our file: 2020-08-05 09:46:44.000
+2021-01-13 23:10:16.995   Dest file exists.
+2021-01-13 23:10:16.995   Time stamp of existing file: 2020-08-05 09:46:44.000
+2021-01-13 23:10:16.995   Version of our file: (none)
+2021-01-13 23:10:17.023   Version of existing file: (none)
+2021-01-13 23:10:17.023   Installing the file.
+2021-01-13 23:10:17.031   Successfully installed the file.
+2021-01-13 23:10:17.031   -- File entry --
+2021-01-13 23:10:17.031   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelPembelajaran.php
+2021-01-13 23:10:17.031   Time stamp of our file: 2019-09-15 10:00:56.000
+2021-01-13 23:10:17.032   Dest file exists.
+2021-01-13 23:10:17.032   Time stamp of existing file: 2019-09-15 10:00:56.000
+2021-01-13 23:10:17.032   Version of our file: (none)
+2021-01-13 23:10:17.059   Version of existing file: (none)
+2021-01-13 23:10:17.059   Installing the file.
+2021-01-13 23:10:17.065   Successfully installed the file.
+2021-01-13 23:10:17.065   -- File entry --
+2021-01-13 23:10:17.065   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelPtk.php
+2021-01-13 23:10:17.066   Time stamp of our file: 2019-09-06 08:32:24.000
+2021-01-13 23:10:17.066   Dest file exists.
+2021-01-13 23:10:17.066   Time stamp of existing file: 2019-09-06 08:32:24.000
+2021-01-13 23:10:17.066   Version of our file: (none)
+2021-01-13 23:10:17.094   Version of existing file: (none)
+2021-01-13 23:10:17.094   Installing the file.
+2021-01-13 23:10:17.101   Successfully installed the file.
+2021-01-13 23:10:17.101   -- File entry --
+2021-01-13 23:10:17.102   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelSekolah.php
+2021-01-13 23:10:17.102   Time stamp of our file: 2020-09-10 10:32:36.000
+2021-01-13 23:10:17.102   Dest file exists.
+2021-01-13 23:10:17.102   Time stamp of existing file: 2020-08-05 09:46:50.000
+2021-01-13 23:10:17.102   Version of our file: (none)
+2021-01-13 23:10:17.138   Version of existing file: (none)
+2021-01-13 23:10:17.138   Installing the file.
+2021-01-13 23:10:17.158   Successfully installed the file.
+2021-01-13 23:10:17.158   -- File entry --
+2021-01-13 23:10:17.158   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\UnduhExcelSekolahSmk.php
+2021-01-13 23:10:17.159   Time stamp of our file: 2020-08-05 09:46:54.000
+2021-01-13 23:10:17.159   Dest file exists.
+2021-01-13 23:10:17.159   Time stamp of existing file: 2020-08-05 09:46:54.000
+2021-01-13 23:10:17.159   Version of our file: (none)
+2021-01-13 23:10:17.190   Version of existing file: (none)
+2021-01-13 23:10:17.190   Installing the file.
+2021-01-13 23:10:17.199   Successfully installed the file.
+2021-01-13 23:10:17.199   -- File entry --
+2021-01-13 23:10:17.200   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Update.php
+2021-01-13 23:10:17.200   Time stamp of our file: 2015-05-19 14:06:04.000
+2021-01-13 23:10:17.200   Dest file exists.
+2021-01-13 23:10:17.200   Time stamp of existing file: 2015-05-19 14:06:04.000
+2021-01-13 23:10:17.200   Version of our file: (none)
+2021-01-13 23:10:17.203   Version of existing file: (none)
+2021-01-13 23:10:17.203   Installing the file.
+2021-01-13 23:10:17.207   Successfully installed the file.
+2021-01-13 23:10:17.207   -- File entry --
+2021-01-13 23:10:17.207   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Validation.php
+2021-01-13 23:10:17.208   Time stamp of our file: 2020-11-20 20:03:34.000
+2021-01-13 23:10:17.208   Dest file exists.
+2021-01-13 23:10:17.208   Time stamp of existing file: 2020-08-16 06:46:20.000
+2021-01-13 23:10:17.208   Version of our file: (none)
+2021-01-13 23:10:17.259   Version of existing file: (none)
+2021-01-13 23:10:17.259   Installing the file.
+2021-01-13 23:10:17.303   Successfully installed the file.
+2021-01-13 23:10:17.303   -- File entry --
+2021-01-13 23:10:17.303   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Info\SekolahDetailTableInfo.php
+2021-01-13 23:10:17.304   Time stamp of our file: 2020-11-12 21:45:38.000
+2021-01-13 23:10:17.304   Dest file exists.
+2021-01-13 23:10:17.304   Time stamp of existing file: 2020-08-05 09:46:40.000
+2021-01-13 23:10:17.304   Version of our file: (none)
+2021-01-13 23:10:17.335   Version of existing file: (none)
+2021-01-13 23:10:17.336   Installing the file.
+2021-01-13 23:10:17.350   Successfully installed the file.
+2021-01-13 23:10:17.350   -- File entry --
+2021-01-13 23:10:17.350   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\Templates\template_info_ptk.php
+2021-01-13 23:10:17.351   Time stamp of our file: 2020-11-12 12:12:54.000
+2021-01-13 23:10:17.351   Dest file exists.
+2021-01-13 23:10:17.351   Time stamp of existing file: 2020-07-05 11:32:12.000
+2021-01-13 23:10:17.351   Version of our file: (none)
+2021-01-13 23:10:17.379   Version of existing file: (none)
+2021-01-13 23:10:17.379   Installing the file.
+2021-01-13 23:10:17.386   Successfully installed the file.
+2021-01-13 23:10:17.386   -- File entry --
+2021-01-13 23:10:17.386   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\src\DataDikdas\tmp\trash.cfg
+2021-01-13 23:10:17.387   Time stamp of our file: 2019-01-15 15:21:20.000
+2021-01-13 23:10:17.387   Installing the file.
+2021-01-13 23:10:17.390   Successfully installed the file.
+2021-01-13 23:10:17.390   -- File entry --
+2021-01-13 23:10:17.390   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\vendor\propel\propel1\runtime\lib\Propel.php
+2021-01-13 23:10:17.391   Time stamp of our file: 2020-11-09 11:06:36.000
+2021-01-13 23:10:17.391   Dest file exists.
+2021-01-13 23:10:17.391   Time stamp of existing file: 2017-01-20 20:09:10.000
+2021-01-13 23:10:17.391   Version of our file: (none)
+2021-01-13 23:10:17.392   Version of existing file: (none)
+2021-01-13 23:10:17.392   Installing the file.
+2021-01-13 23:10:17.398   Successfully installed the file.
+2021-01-13 23:10:17.398   -- File entry --
+2021-01-13 23:10:17.398   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\web\changelog.txt
+2021-01-13 23:10:17.399   Time stamp of our file: 2020-11-19 22:35:46.000
+2021-01-13 23:10:17.399   Dest file exists.
+2021-01-13 23:10:17.399   Time stamp of existing file: 2020-08-17 21:17:44.000
+2021-01-13 23:10:17.399   Version of our file: (none)
+2021-01-13 23:10:17.401   Version of existing file: (none)
+2021-01-13 23:10:17.401   Installing the file.
+2021-01-13 23:10:17.405   Successfully installed the file.
+2021-01-13 23:10:17.405   -- File entry --
+2021-01-13 23:10:17.406   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\web\classic\app.js
+2021-01-13 23:10:17.406   Time stamp of our file: 2020-11-20 20:21:50.000
+2021-01-13 23:10:17.406   Dest file exists.
+2021-01-13 23:10:17.406   Time stamp of existing file: 2020-08-18 00:15:56.000
+2021-01-13 23:10:17.406   Version of our file: (none)
+2021-01-13 23:10:17.494   Version of existing file: (none)
+2021-01-13 23:10:17.494   Installing the file.
+2021-01-13 23:10:17.696   Successfully installed the file.
+2021-01-13 23:10:17.696   -- File entry --
+2021-01-13 23:10:17.696   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\web\files\panduan\Panduan Aplikasi Dapodik versi 2021.b.pdf
+2021-01-13 23:10:17.696   Time stamp of our file: 2020-11-20 15:37:34.000
+2021-01-13 23:10:17.696   Installing the file.
+2021-01-13 23:10:19.052   Successfully installed the file.
+2021-01-13 23:10:19.052   -- File entry --
+2021-01-13 23:10:19.052   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\apps\web\resources\images\dapodik 2021.b-06.png
+2021-01-13 23:10:19.053   Time stamp of our file: 2020-11-20 20:36:04.000
+2021-01-13 23:10:19.053   Installing the file.
+2021-01-13 23:10:19.095   Successfully installed the file.
+2021-01-13 23:10:19.095   -- File entry --
+2021-01-13 23:10:19.096   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\synch_dikdas\index.php
+2021-01-13 23:10:19.096   Time stamp of our file: 2020-11-19 09:12:58.000
+2021-01-13 23:10:19.096   Dest file exists.
+2021-01-13 23:10:19.096   Time stamp of existing file: 2020-08-17 09:53:38.000
+2021-01-13 23:10:19.096   Version of our file: (none)
+2021-01-13 23:10:19.127   Version of existing file: (none)
+2021-01-13 23:10:19.127   Installing the file.
+2021-01-13 23:10:19.136   Successfully installed the file.
+2021-01-13 23:10:19.136   -- File entry --
+2021-01-13 23:10:19.136   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\synch_dikdas\login.php
+2021-01-13 23:10:19.137   Time stamp of our file: 2020-07-02 05:12:30.000
+2021-01-13 23:10:19.137   Installing the file.
+2021-01-13 23:10:19.141   Successfully installed the file.
+2021-01-13 23:10:19.141   -- File entry --
+2021-01-13 23:10:19.141   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\synch_dikdas\sinkronisasi.php
+2021-01-13 23:10:19.141   Time stamp of our file: 2020-11-20 22:14:28.000
+2021-01-13 23:10:19.141   Dest file exists.
+2021-01-13 23:10:19.142   Time stamp of existing file: 2020-08-17 09:53:44.000
+2021-01-13 23:10:19.142   Version of our file: (none)
+2021-01-13 23:10:19.186   Version of existing file: (none)
+2021-01-13 23:10:19.187   Installing the file.
+2021-01-13 23:10:19.221   Successfully installed the file.
+2021-01-13 23:10:19.221   -- File entry --
+2021-01-13 23:10:19.221   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\synch_dikdas\prefill\push_prefill.php
+2021-01-13 23:10:19.221   Time stamp of our file: 2020-11-20 21:08:50.000
+2021-01-13 23:10:19.221   Dest file exists.
+2021-01-13 23:10:19.222   Time stamp of existing file: 2020-07-08 18:51:18.000
+2021-01-13 23:10:19.222   Version of our file: (none)
+2021-01-13 23:10:19.268   Version of existing file: (none)
+2021-01-13 23:10:19.268   Installing the file.
+2021-01-13 23:10:19.276   Successfully installed the file.
+2021-01-13 23:10:19.276   -- File entry --
+2021-01-13 23:10:19.276   Dest filename: C:\Program Files (x86)\Dapodik\dataweb\synch_dikdas\prefill\push_prefill_rapor.php
+2021-01-13 23:10:19.277   Time stamp of our file: 2020-11-09 12:11:28.000
+2021-01-13 23:10:19.277   Dest file exists.
+2021-01-13 23:10:19.277   Time stamp of existing file: 2019-02-25 13:24:12.000
+2021-01-13 23:10:19.277   Version of our file: (none)
+2021-01-13 23:10:19.331   Version of existing file: (none)
+2021-01-13 23:10:19.331   Installing the file.
+2021-01-13 23:10:19.338   Successfully installed the file.
+2021-01-13 23:10:19.338   -- Registry entry --
+2021-01-13 23:10:19.338   Key: HKEY_LOCAL_MACHINE\Software\DitjenDikdasmen\Dapodik
+2021-01-13 23:10:19.338   Value name: version
+2021-01-13 23:10:19.338   Creating or opening the key.
+2021-01-13 23:10:19.338   Creating or setting the value.
+2021-01-13 23:10:19.339   Successfully created or set the value.
+2021-01-13 23:10:19.339   -- Registry entry --
+2021-01-13 23:10:19.339   Key: HKEY_LOCAL_MACHINE\Software\DitjenDikdasmen\Dapodik
+2021-01-13 23:10:19.339   Value name: version_string
+2021-01-13 23:10:19.339   Creating or opening the key.
+2021-01-13 23:10:19.339   Creating or setting the value.
+2021-01-13 23:10:19.339   Successfully created or set the value.
+2021-01-13 23:10:19.339   Saving uninstall information.
+2021-01-13 23:10:19.339   Renaming uninstaller.
+2021-01-13 23:10:19.378   Installation process succeeded.
+2021-01-13 23:10:19.378   Need to restart Windows? No
+2021-01-13 23:10:19.387   Deinitializing Setup.
+2021-01-13 23:10:19.400   Log closed.
