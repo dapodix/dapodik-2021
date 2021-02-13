@@ -1,5 +1,15 @@
 # Daftar Perubahan Aplikasi Dapodik 2021
 
+## Aplikasi Dapodik 2021.d
+
+- [Pembaruan] Penambahan validasi terkait pemilihan kurikulum yang tidak sesuai untuk bentuk pendidikan TKLB, SDLB, SMPLB, SMALB, SLB, PKBM dan SKB
+- [Pembaruan] Pembukaan menu pengisian nilai rapor untuk bentuk pendidikan PKBM dan SKB
+- [Perbaikan] Perubahan validasi hobby dan cita-cita menjadi Warning.
+- [Perbaikan] Perubahan bisnis proses untuk penginputan data ayah peserta didik.
+- [Perbaikan] Perubahan filter ketika pada saat memetakan anggota rombel pada bentuk pendidikan PKBM dan SKB.
+- [Perbaikan] Perbaikan fitur lanjutkan semester dan kenaikan kelas untuk bentuk pendidikan SPK.
+- [Perbaikan] Pembukaan isian terkait no rekening lembaga pada bentuk pendidikan PAUD, PKBM dan SKB.
+
 ## Aplikasi Dapodik 2021.c
 
 - [Pembaruan] Penambahan isian variabel apakah pernah PAUD Formal dan apakah pernah PAUD Non Formal pada registrasi peserta didik.

@@ -2,6 +2,10 @@
 
 Aplikasi Dapodik, versi 2021. Untuk Windows XP / Vista / 7 / 8 / 10.
 
+## Dapodik 2021.d
+
+[Unduh Patch](https://github.com/dapodix/dapodik-2021/releases/download/2021.c/Patch_Dapodik_2021.c.exe "Patch Dapodik 2021.a")*, [Daftar Perubahan](https://github.com/dapodix/dapodik-2021/releases/tag/2021.d)
+
 ## Dapodik 2021.c
 
 [Unduh Installer](https://github.com/dapodix/dapodik-2021/releases/download/2021.c/Dapodik_2021.c.exe "Installer Dapodik 2021.c"), [Daftar Perubahan](https://github.com/dapodix/dapodik-2021/releases/tag/2021.c)
