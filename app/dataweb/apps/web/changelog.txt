@@ -1,11 +1,23 @@
 <body>
 <div id="form">
 <fieldset class="fieldset">
+<legend><h3>versi 2021.d</h3></legend>
+	<ol>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi terkait pemilihan kurikulum yang tidak sesuai untuk bentuk pendidikan TKLB, SDLB, SMPLB, SMALB, SLB, PKBM dan SKB</li>
+		<li><b style="color:green">[Pembaruan]</b> Pembukaan menu pengisian nilai rapor untuk bentuk pendidikan PKBM dan SKB</li>
+		<li><b style="color:green">[Perbaikan]</b> Perubahan validasi hobby dan cita-cita menjadi Warning.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perubahan bisnis proses untuk penginputan data ayah peserta didik.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perubahan filter ketika pada saat memetakan anggota rombel pada bentuk pendidikan PKBM dan SKB.</li>
+		<li><b style="color:green">[Perbaikan]</b> Perbaikan fitur lanjutkan semester dan kenaikan kelas untuk bentuk pendidikan SPK.</li>
+		<li><b style="color:green">[Perbaikan]</b> Pembukaan isian terkait no rekening lembaga pada bentuk pendidikan PAUD, PKBM dan SKB.</li>
+	</ol>
+</fieldset>
+<fieldset class="fieldset">
 <legend><h3>versi 2021.c</h3></legend>
 	<ol>
 		<li><b style="color:blue">[Pembaruan]</b> Penambahan isian variabel apakah pernah PAUD Formal dan apakah pernah PAUD Non Formal pada registrasi peserta didik.</li>
 		<li><b style="color:blue">[Pembaruan]</b> Penambahan isian variabel hobby dan cita-cita pada registrasi peserta didik.</li>
-		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi variabel yang wajib diisi (mandatory) pada formulir peserta didik untuk kebutuhan Assesmen Nasional.</li>
+		<li><b style="color:blue">[Pembaruan]</b> Penambahan validasi variabel yang wajib diisi (mandatory) pada formulir peserta didik untuk kebutuhan Assesmen Nasional (berlaku selain jenjang PKBM dan SKB).</li>
 		<li><b style="color:blue">[Pembaruan]</b> Penambahan tabulasi Kamar Mandi/WC pada menu Sarpras-Ruang.</li>
 		<li><b style="color:green">[Perbaikan]</b> Penutupan tambah peserta didik baru untuk jenjang PKBM dan SKB.</li>
 		<li><b style="color:green">[Perbaikan]</b> Perubahan prosedur pemetaan anggota rombel untuk jenjang PKBM dan SKB (mengikuti jenjang formal).</li>
@@ -13,6 +25,7 @@
 		<li><b style="color:green">[Perbaikan]</b> Penutupan tambah GTK baru bagi SILN, sekolah dibawah naungan KEMENAG dan wilayah daerah khusus.</li>
 		<li><b style="color:green">[Perbaikan]</b> Pelepasan validasi lokal terkait pengecekan inputan NIK untuk peserta didik.</li>
 		<li><b style="color:green">[Perbaikan]</b> Perbaikan pada isian tingkat pendidikan bagi sekolah Pratama Widya Pasraman (sekolah dibawah naungan KEMENAG).</li>
+		<li><b style="color:green">[Perbaikan]</b> Bugs fixing pada saat proses lanjutkan semester untuk kelas 13 pada jenjang SMK.</li>
 	</ol>
 </fieldset>
 <fieldset class="fieldset">
